@@ -6,11 +6,6 @@
 
 - This webapp uses Huffman Coding for Text Compression and De-compression.
 - Made with JavaScript, HTML5 and CSS3.
-- Live Demo:👇
-
-- [x] [samirpaulb.github.io/txt-compressor](https://samirpaulb.github.io/txt-compressor/)
-
-- [x] [txt-compressor.vercel.app](https://txt-compressor.vercel.app/)
 
 
 ## About this application:
@@ -20,7 +15,7 @@
 * A Huffman code is a tree, built bottom up, starting with the list of different characters appearing in a text and their frequency. 
 * Compression ratio usually improves as the file size increases.
 * The website is made responsive (with HTML and CSS ) and interactive (with JavaScript ) .
-* An [Info page](https://samirpaulb.github.io/txt-compressor/info.html) is added to give more information about tecnique of **Lossless Data Compression** with Huffman coding.
+
 
 
 
